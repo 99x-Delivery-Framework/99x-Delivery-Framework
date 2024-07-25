@@ -1,1 +1,0 @@
-This folder contains the 99x Product Health Management Framework.
